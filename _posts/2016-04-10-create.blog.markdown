@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Welcome to Liping Zhang's Blog"
+subtitle: "A simple Jekyll blog theme."
+date: 2016-04-10
+author: Liping Zhang
+category: Jekyll
+tags: jekyll
+finished: true
+---
+
+## Welcome to My Blog
+
+Dear guys, welcome to Liping Zhang's blog.
+
+This blog is built by Jekyll.
+
+## Liping Zhang's Blog
+
+I was thinking about creating my blog for a long time, but due to busy projects on hands, I didn't had chance to do it. 
+
+It's a good day today, since finally I can start to create my own blog on github now.
+
+I Hope I can continue to contribute code and tech blog in github all the time, and hope it is a good way to track my growth. 
+
+
+## Time is Valuable
+
+Time is valuable, howeve time is easy to lose.  No matther how busy you are, please don't forget to recharge yourself.
+
+
+## Author
+
+A normal person who love skills and this beautiful world.
+
+<i class="fa fa-twitter"></i>&nbsp;&nbsp;[Twitter](https://twitter.com/zlpmichelle)
+
+## License
+
+Use MIT License.
+
+
