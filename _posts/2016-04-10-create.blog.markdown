@@ -17,16 +17,16 @@ This blog is built by Jekyll.
 
 ## Liping Zhang's Blog
 
-I was thinking about creating my blog for a long time, but due to busy projects on hands, I didn't had chance to do it. 
+I have been thinking about creating my blog for a long time, but due to busy projects on hands, I don't had chance to do it. 
 
 It's a good day today, since finally I can start to create my own blog on github now.
 
-I Hope I can continue to contribute code and tech blog in github all the time, and hope it is a good way to track my growth. 
+I hope I can continue to contribute code and tech blog in github all the time, and hope it is a good way to track my growth. 
 
 
 ## Time is Valuable
 
-Time is valuable, howeve time is easy to lose.  No matther how busy you are, please don't forget to recharge yourself.
+Time is valuable, however time is easy to lose. No matther how busy I will be, just don't forget to recharge myself.
 
 
 ## Author
